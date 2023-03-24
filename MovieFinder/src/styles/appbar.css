@@ -1,0 +1,12 @@
+app-bar {
+  display: block;
+  padding: 16px;
+  width: 100%;
+  background-color: #0a192fed;
+  color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+app-bar h2 {
+  text-align: center;
+}
